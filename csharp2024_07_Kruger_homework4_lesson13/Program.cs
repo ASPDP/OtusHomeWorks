@@ -1,4 +1,4 @@
-﻿namespace charp2024_07_Kruger_homework_17;
+﻿namespace csharp2024_07_Kruger_homework4_lesson13;
 
 class Program
 {

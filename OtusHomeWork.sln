@@ -1,20 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_1", "charp2024_07_Kruger_homework_1\charp2024_07_Kruger_homework_1.csproj", "{AB080DBF-95A3-4497-B20C-A3251803ED37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework1_lesson1", "csharp2024_07_Kruger_homework1_lesson1\csharp2024_07_Kruger_homework1_lesson1.csproj", "{AB080DBF-95A3-4497-B20C-A3251803ED37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_4", "charp2024_07_Kruger_homework_4\charp2024_07_Kruger_homework_4.csproj", "{1F52FCCC-4C73-4F3F-B5CE-B2DFF2F76248}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework2_lesson4", "csharp2024_07_Kruger_homework2_lesson4\csharp2024_07_Kruger_homework2_lesson4.csproj", "{1F52FCCC-4C73-4F3F-B5CE-B2DFF2F76248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_9", "charp2024_07_Kruger_homework_9\charp2024_07_Kruger_homework_9.csproj", "{454F3E6A-03F7-4919-91BA-409E3E558EE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework3_lesson9", "csharp2024_07_Kruger_homework3_lesson9\csharp2024_07_Kruger_homework3_lesson9.csproj", "{454F3E6A-03F7-4919-91BA-409E3E558EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_13", "charp2024_07_Kruger_homework_13\charp2024_07_Kruger_homework_13.csproj", "{87FC28C6-48A6-4D90-9AFE-3FF762243016}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework4_lesson13", "csharp2024_07_Kruger_homework4_lesson13\csharp2024_07_Kruger_homework4_lesson13.csproj", "{87FC28C6-48A6-4D90-9AFE-3FF762243016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_17", "charp2024_07_Kruger_homework_17\charp2024_07_Kruger_homework_17.csproj", "{5C38C253-7D25-4C42-813D-538F52E1822B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework5_lesson17", "csharp2024_07_Kruger_homework5_lesson17\csharp2024_07_Kruger_homework5_lesson17.csproj", "{5C38C253-7D25-4C42-813D-538F52E1822B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_23", "charp2024_07_Kruger_homework_23\charp2024_07_Kruger_homework_23.csproj", "{777A57D0-F8BC-46EC-9F42-55F99DE92A05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework6_lesson23", "csharp2024_07_Kruger_homework6_lesson23\csharp2024_07_Kruger_homework6_lesson23.csproj", "{777A57D0-F8BC-46EC-9F42-55F99DE92A05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_28", "charp2024_07_Kruger_homework_28\charp2024_07_Kruger_homework_28.csproj", "{607B1C82-BB15-4589-98C0-A822C2150A2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework7_lesson28", "csharp2024_07_Kruger_homework7_lesson28\csharp2024_07_Kruger_homework7_lesson28.csproj", "{607B1C82-BB15-4589-98C0-A822C2150A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charp2024_07_Kruger_homework_30", "charp2024_07_Kruger_homework_30\charp2024_07_Kruger_homework_30.csproj", "{11760793-C289-4EF1-8FBE-804F2E0BD99B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework8_lesson30", "csharp2024_07_Kruger_homework8_lesson30\csharp2024_07_Kruger_homework8_lesson30.csproj", "{11760793-C289-4EF1-8FBE-804F2E0BD99B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

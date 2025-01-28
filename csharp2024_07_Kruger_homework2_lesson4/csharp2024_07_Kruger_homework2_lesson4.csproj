@@ -5,6 +5,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>charp2024_07_Kruger_homework_4</RootNamespace>
     </PropertyGroup>
 
 </Project>
