@@ -63,7 +63,7 @@ Console.WriteLine("Считаем пробелы в каждом файле ас
 var awaitableTasks = HomeWorkFunction(demoFolderFullPath);
 //вот тут можно что-то поделать, поток не заблокирован
 
-await VeryImportantWork();
+await VeryImportantWork(awaitableTasks);
 
 WriteResultsIntoConsole(await awaitableTasks); // эксепшны, если есть - поваляться тут, во время "распаковки таски"
 
@@ -123,7 +123,7 @@ async void WriteResultsIntoConsole(CountResult[] results)
 }
 
 // имитируем полезную работу
-async Task VeryImportantWork()
+async Task VeryImportantWork(Task<CountResult[]> awaitableTasks)
 {
     var cp = Console.GetCursorPosition();
     Console.CursorVisible = false;
