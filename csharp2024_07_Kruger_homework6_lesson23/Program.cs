@@ -123,7 +123,7 @@ async void WriteResultsIntoConsole(CountResult[] results)
 }
 
 // имитируем полезную работу
-async Task VeryImportantWork(Task<CountResult[]> awaitableTasks)
+async Task VeryImportantWork(Task awaitableTasks)
 {
     var cp = Console.GetCursorPosition();
     Console.CursorVisible = false;
