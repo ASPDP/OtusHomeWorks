@@ -129,7 +129,7 @@ async Task VeryImportantWork(Task awaitableTasks)
     Console.CursorVisible = false;
     while (!awaitableTasks.IsCompleted) // если хотя бы одна таска умрет, мы никогда не получим true :)
     {
-        switch (new Random().Next(0, 5))
+        switch (new Random().Next(1, 5))
         {
             case 1:
                 Console.WriteLine(@"_(o_o)_");
