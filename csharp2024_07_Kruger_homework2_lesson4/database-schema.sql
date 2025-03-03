@@ -168,6 +168,7 @@ FROM Products
 ORDER BY Price DESC;
 
 -- 7. Список товаров с низким запасом (менее 5 штук)
-SELECT TOP 5 * 
+SELECT *
 FROM Products 
+WHERE QuantityInStock < 5
 ORDER BY QuantityInStock ASC;
