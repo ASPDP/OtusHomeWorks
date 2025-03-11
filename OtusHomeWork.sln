@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework1_lesson1", "csharp2024_07_Kruger_homework1_lesson1\csharp2024_07_Kruger_homework1_lesson1.csproj", "{AB080DBF-95A3-4497-B20C-A3251803ED37}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework3_lesson9", "csharp2024_07_Kruger_homework3_lesson9\csharp2024_07_Kruger_homework3_lesson9.csproj", "{454F3E6A-03F7-4919-91BA-409E3E558EE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework4_lesson13", "csharp2024_07_Kruger_homework4_lesson13\csharp2024_07_Kruger_homework4_lesson13.csproj", "{87FC28C6-48A6-4D90-9AFE-3FF762243016}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AB080DBF-95A3-4497-B20C-A3251803ED37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB080DBF-95A3-4497-B20C-A3251803ED37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB080DBF-95A3-4497-B20C-A3251803ED37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB080DBF-95A3-4497-B20C-A3251803ED37}.Release|Any CPU.Build.0 = Release|Any CPU
 		{454F3E6A-03F7-4919-91BA-409E3E558EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{454F3E6A-03F7-4919-91BA-409E3E558EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{454F3E6A-03F7-4919-91BA-409E3E558EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
