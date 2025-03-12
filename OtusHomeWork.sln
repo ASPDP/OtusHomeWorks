@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homewo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework8_lesson30", "csharp2024_07_Kruger_homework8_lesson30\csharp2024_07_Kruger_homework8_lesson30.csproj", "{11760793-C289-4EF1-8FBE-804F2E0BD99B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp2024_07_Kruger_homework8_lesson30.Test", "csharp2024_07_Kruger_homework8_lesson30.Test\csharp2024_07_Kruger_homework8_lesson30.Test.csproj", "{B1347CCD-9957-4426-B0D0-8E7843A23C1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{11760793-C289-4EF1-8FBE-804F2E0BD99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11760793-C289-4EF1-8FBE-804F2E0BD99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11760793-C289-4EF1-8FBE-804F2E0BD99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1347CCD-9957-4426-B0D0-8E7843A23C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1347CCD-9957-4426-B0D0-8E7843A23C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1347CCD-9957-4426-B0D0-8E7843A23C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1347CCD-9957-4426-B0D0-8E7843A23C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
